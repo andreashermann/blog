@@ -10,3 +10,5 @@ github_username:  andreashermann
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-tactile
